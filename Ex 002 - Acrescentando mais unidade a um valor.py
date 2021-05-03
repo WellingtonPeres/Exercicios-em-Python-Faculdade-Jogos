@@ -1,6 +1,7 @@
 """ Desenvolva um programa em Python que recebe um valor
 inteiro, acrescente duas unidades a este, e exiba
 o resultado desta manipulação."""
+
 numero = 8
 acrescentar = numero + 2
 print("A soma entre os dois valores", acrescentar)
